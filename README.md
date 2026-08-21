@@ -1,6 +1,6 @@
 # LOX and LOX-R: Local Outlier eXplanations
 
-Code for reproducing experiments in the CIKM 2026 submission.
+Code for reproducing experiments in Contextual Local Outlier Detection.
 
 ## Structure
 
